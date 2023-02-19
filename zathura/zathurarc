@@ -1,0 +1,47 @@
+set default-bg "#282828"
+set default-fg "#ebdbb2"
+set font "JetBrainsMono Nerd Font 10"
+
+set statusbar-bg "#504945"
+set statusbar-fg "#ebdbb2"
+set statusbar-basename true
+
+set inputbar-bg "#7c6f64"
+set inputbar-fg "#ebdbb2"
+
+set index-bg "#282828"
+set index-fg "#ebdbb2"
+set index-active-bg "#b8bb26"
+set index-active-fg "#3c3836"
+
+set completion-bg "#282828"
+set completion-fg "#ebdbb2"
+set completion-group-bg "#282828"
+set completion-group-fg "#fabd2f"
+set completion-highlight-bg "#98971a"
+set completion-highlight-fg "#7c6f64"
+
+set notification-bg "#282828"
+set notification-fg "#ebdbb2"
+set notification-error-bg "#fb4934"
+set notification-error-fg "#3c3836"
+set notification-warning-bg "#fb4934"
+set notification-warning-fg "#32344a"
+
+set highlight-color "#b8bb26"
+set highlight-active-color "#98971a"
+set highlight-transparency 0.35
+map <A-n> set nohlsearch
+
+set recolor-lightcolor "#3c3836"
+set recolor-darkcolor "#ebdbb2"
+set recolor-keephue "true"
+set recolor "true"
+
+set render-loading-bg "#7c6f64"
+set render-loading-fg "#ebdbb2"
+
+set selection-clipboard clipboard
+set window-title-home-tilde true
+
+

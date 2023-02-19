@@ -1,0 +1,29 @@
+2022-12-18T07:42:54.151Z - info: [ui] [AppStore] loading 0 repositories from store
+2022-12-18T07:42:54.220Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-12-18T07:42:54.224Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.0.12-arch1-1)
+2022-12-18T07:42:54.224Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-12-18T07:42:54.238Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-12-18T07:42:54.288Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-12-18T07:42:55.128Z - info: [ui] Opt in reported.
+2022-12-18T07:42:57.973Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2022-12-18T07:42:57.975Z - info: [ui] [SignInStore] initializing OAuth flow
+2022-12-18T07:42:57.979Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=6e7690d8-7798-467d-9fec-abda4090aa56
+2022-12-18T07:42:57.980Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2022-12-18T07:42:58.796Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-12-18T07:43:37.363Z - info: [main] Received possible protocol arguments: 4
+2022-12-18T07:43:37.364Z - info: [main] Processing protocol url
+2022-12-18T07:43:37.374Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-12-18T07:43:37.377Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-12-18T07:43:37.387Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-12-18T07:43:38.760Z - info: [ui] [SignInStore] account resolved
+2022-12-18T07:43:38.760Z - info: [ui] [AppStore] adding account Upsurge-11 (Arghyadeep Mukherjee) to store
+2022-12-18T07:43:38.771Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2022-12-18T07:43:38.804Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-12-18T07:43:39.476Z - info: [ui] Subscribed 'Upsurge-11' to Alive channel
+2022-12-18T07:43:39.528Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-12-18T12:00:22.027Z - info: [ui] [AppStore] loading 0 repositories from store
+2022-12-18T12:00:22.033Z - info: [ui] [AppStore] found account: Upsurge-11 (Arghyadeep Mukherjee)
+2022-12-18T12:00:22.129Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.0.12-arch1-1)
+2022-12-18T12:00:22.131Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-12-18T12:00:22.751Z - info: [ui] Subscribed 'Upsurge-11' to Alive channel
+2022-12-18T12:00:23.066Z - info: [ui] Stats reported.

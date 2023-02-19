@@ -1,0 +1,30 @@
+2023-02-19T09:29:15.613Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-02-19T09:29:15.624Z - info: [ui] [AppStore] found account: Upsurge-11 (Arghyadeep Mukherjee)
+2023-02-19T09:29:15.673Z - error: [ui] `git remote -v` exited with an unexpected code: 128.
+stderr:
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2023-02-19T09:29:15.707Z - error: [ui] `git remote -v` exited with an unexpected code: 128.
+stderr:
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2023-02-19T09:29:15.833Z - info: [ui] launching: 3.1.7-linux1 (Linux 6.1.12-arch1-1)
+2023-02-19T09:29:15.835Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-02-19T09:29:16.901Z - info: [ui] [fetchProtectedBranches] unable to list protected branches
+Error: Not Found
+    at Dt (/home/upsurge11/webpack:/[name]/app/src/lib/http.ts:178:11)
+    at vn.fetchProtectedBranches (/home/upsurge11/webpack:/[name]/app/src/lib/api.ts:1355:7)
+    at Zn.updateBranchProtectionsFromAPI (/home/upsurge11/webpack:/[name]/app/src/lib/stores/app-store.ts:3961:11)
+2023-02-19T09:29:16.902Z - warn: [ui] fetchAll: 'repos/Upsurge-11/Web-Scraping-Selenium/pulls?state=open' returned a 404
+2023-02-19T09:29:16.903Z - warn: [ui] fetchAll: 'repos/Upsurge-11/Web-Scraping-Selenium/issues?state=open' returned a 404
+2023-02-19T09:29:16.904Z - warn: [ui] fetchMentionables: 'repos/Upsurge-11/Web-Scraping-Selenium/mentionables/users' returned a 404
+2023-02-19T09:29:16.905Z - info: [ui] Stats reported.
+2023-02-19T09:29:17.291Z - info: [ui] Subscribed 'Upsurge-11' to Alive channel
+2023-02-19T19:33:31.998Z - info: [ui] [AppStore] loading 0 repositories from store
+2023-02-19T19:33:32.006Z - info: [ui] [AppStore] found account: Upsurge-11 (Arghyadeep Mukherjee)
+2023-02-19T19:33:32.141Z - info: [ui] launching: 3.1.7-linux1 (Linux 6.1.12-arch1-1)
+2023-02-19T19:33:32.143Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-02-19T19:33:33.595Z - info: [ui] Subscribed 'Upsurge-11' to Alive channel
+2023-02-19T19:35:16.960Z - info: [ui] [AppStore] adding repository at /home/upsurge11/.config to store
