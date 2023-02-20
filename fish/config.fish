@@ -68,7 +68,7 @@ alias nnoping="sudo nmap -Pn -A -vv --script vuln " # Thorough scan of an IP whe
 alias nudp="nmap -sU --top-ports " # Scans top most used ports in an IP.
 
 # OpenVPNs
-alias htb="sudo openvn ~/Stuff/OpenVPNs/HTB-Upsurge11.ovpn"
+alias htb="sudo openvpn ~/Stuff/OpenVPNs/HTB-Upsurge11.ovpn"
 alias thm="sudo openvpn ~/Stuff/OpenVPNs/THM-Upsurge11.ovpn"
 
 # Starship Prompt For ~/.config/fish/config.fish
