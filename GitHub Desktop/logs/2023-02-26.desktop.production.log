@@ -1,0 +1,46 @@
+2023-02-26T09:40:39.169Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-02-26T09:40:39.174Z - info: [ui] [AppStore] found account: Upsurge-11 (Arghyadeep Mukherjee)
+2023-02-26T09:40:39.812Z - info: [ui] launching: 3.1.7-linux1 (Linux 6.1.12-arch1-1)
+2023-02-26T09:40:39.813Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-02-26T09:40:40.352Z - info: [ui] Subscribed 'Upsurge-11' to Alive channel
+2023-02-26T09:40:50.161Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.156s)
+2023-02-26T09:40:51.386Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.223s)
+2023-02-26T09:41:01.228Z - info: [ui] [AppStore] adding repository at /home/upsurge11/Programming/Upsurge-11 to store
+2023-02-26T09:41:12.681Z - info: [ui] Executing push: git -c credential.helper= push origin main --set-upstream --progress (took 3.153s)
+2023-02-26T09:41:13.807Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.118s)
+2023-02-26T09:41:14.937Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.127s)
+2023-02-26T09:41:15.946Z - info: [ui] [BranchPruner] No branches to prune.
+2023-02-26T09:42:55.039Z - info: [ui] [AppStore] loading 2 repositories from store
+2023-02-26T09:42:55.050Z - info: [ui] [AppStore] found account: Upsurge-11 (Arghyadeep Mukherjee)
+2023-02-26T09:42:55.120Z - info: [ui] [BranchPruner] Last prune took place 2 minutes ago - skipping
+2023-02-26T09:42:55.942Z - info: [ui] launching: 3.1.7-linux1 (Linux 6.1.12-arch1-1)
+2023-02-26T09:42:55.943Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-02-26T09:42:56.482Z - info: [ui] Subscribed 'Upsurge-11' to Alive channel
+2023-02-26T09:42:59.873Z - info: [ui] [Timing] Action 'create commit' for 'Upsurge-11/Upsurge-11' took 0.080s
+2023-02-26T09:43:02.336Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Upsurge-11 - Upsurge-11 (has token)
+2023-02-26T09:43:04.386Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 2.044s)
+2023-02-26T09:43:05.721Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.332s)
+2023-02-26T09:43:06.775Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.052s)
+2023-02-26T09:46:48.887Z - info: [ui] [AppStore] loading 2 repositories from store
+2023-02-26T09:46:48.895Z - info: [ui] [AppStore] found account: Upsurge-11 (Arghyadeep Mukherjee)
+2023-02-26T09:46:48.945Z - info: [ui] [BranchPruner] Last prune took place 6 minutes ago - skipping
+2023-02-26T09:46:49.521Z - info: [ui] launching: 3.1.7-linux1 (Linux 6.1.12-arch1-1)
+2023-02-26T09:46:49.522Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-02-26T09:46:49.940Z - info: [ui] Subscribed 'Upsurge-11' to Alive channel
+2023-02-26T09:46:52.340Z - info: [ui] [Timing] Action 'create commit' for 'Upsurge-11/Upsurge-11' took 0.090s
+2023-02-26T09:46:55.474Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Upsurge-11 - Upsurge-11 (has token)
+2023-02-26T09:46:57.335Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 1.846s)
+2023-02-26T09:46:58.401Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.062s)
+2023-02-26T09:46:59.466Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.064s)
+2023-02-26T09:49:03.813Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.5s of which 0.0s paused, total 0.5s
+2023-02-26T09:58:19.837Z - info: [ui] [AppStore] loading 2 repositories from store
+2023-02-26T09:58:19.847Z - info: [ui] [AppStore] found account: Upsurge-11 (Arghyadeep Mukherjee)
+2023-02-26T09:58:19.889Z - info: [ui] [BranchPruner] Last prune took place 17 minutes ago - skipping
+2023-02-26T09:58:20.553Z - info: [ui] launching: 3.1.7-linux1 (Linux 6.1.12-arch1-1)
+2023-02-26T09:58:20.555Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-02-26T09:58:21.175Z - info: [ui] Subscribed 'Upsurge-11' to Alive channel
+2023-02-26T09:58:22.849Z - info: [ui] [Timing] Action 'create commit' for 'Upsurge-11/Upsurge-11' took 0.131s
+2023-02-26T09:58:24.232Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Upsurge-11 - Upsurge-11 (has token)
+2023-02-26T09:58:26.304Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 2.067s)
+2023-02-26T09:58:27.426Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.118s)
+2023-02-26T09:58:28.585Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.156s)

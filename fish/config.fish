@@ -27,12 +27,12 @@ alias po='nvim ~/.config/polybar/config.ini'
 alias pi='nvim ~/.config/picom.conf'
 alias al='nvim ~/.config/alacritty/alacritty.yml'
 alias checkclass='xprop | grep WM_CLASS'
-alias sql='mysql -u upsurge11 -p'
 alias t='tree -C -h'
 alias p='pipes.sh'
 alias r='ranger'
 alias se='sudoedit'
 alias msf='msfconsole'
+alias burp='java -jar ~/Stuff/Apps/Burpsuite/Loader.jar'
 
 # Pacman and Yay
 alias pacsyu='sudo pacman -Syu'                  # update only standard pkgs

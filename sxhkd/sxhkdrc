@@ -183,6 +183,9 @@ super + Print
 super + w 
   firefox
 
+super + u
+  java -jar ~/Stuff/Apps/Burpsuite/Loader.jar
+
 super + n
   thunar
 #  alacritty -e ranger

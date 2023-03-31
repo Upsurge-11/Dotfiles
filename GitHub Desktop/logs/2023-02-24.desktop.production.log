@@ -1,0 +1,8 @@
+2023-02-24T07:12:11.409Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-02-24T07:12:11.417Z - info: [ui] [AppStore] found account: Upsurge-11 (Arghyadeep Mukherjee)
+2023-02-24T07:12:11.985Z - info: [ui] launching: 3.1.7-linux1 (Linux 6.1.12-arch1-1)
+2023-02-24T07:12:11.986Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-02-24T07:12:12.532Z - info: [ui] Subscribed 'Upsurge-11' to Alive channel
+2023-02-24T07:12:13.111Z - info: [ui] Stats reported.
+2023-02-24T07:12:24.944Z - info: [main] opening in browser: https://github.com/Upsurge-11/Dotfiles/compare/main
+2023-02-24T07:16:49.522Z - info: [ui] Opt out reported.
