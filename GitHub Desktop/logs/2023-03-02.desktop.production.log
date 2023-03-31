@@ -1,6 +1,0 @@
-2023-03-02T09:39:47.561Z - info: [ui] [AppStore] loading 2 repositories from store
-2023-03-02T09:39:47.571Z - info: [ui] [AppStore] found account: Upsurge-11 (Arghyadeep Mukherjee)
-2023-03-02T09:39:47.833Z - info: [ui] [BranchPruner] No branches to prune.
-2023-03-02T09:39:48.308Z - info: [ui] launching: 3.1.8-linux1 (Linux 6.2.1-arch1-1)
-2023-03-02T09:39:48.310Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
-2023-03-02T09:40:03.413Z - info: [ui] Subscribed 'Upsurge-11' to Alive channel
